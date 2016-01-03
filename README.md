@@ -22,6 +22,8 @@ Anyway, you probably want to actually run this program one of these days.
 
 Regardless of your desired method of turning loose the bonds bursting with the strain of withholding the awesomeness of my project (and run-on sentences) you should prepare to be amazed.
 
+INSTALLATION:
+
 In order to run do the following:
 
 	Download the culmination of my life's work to a folder of your choice.
@@ -34,8 +36,8 @@ In order to run do the following:
 	When opened in IDLE press F5 or select ‘--> Run -> Run Module’ from pull-down list.
 
 If that does not work, or you would prefer the aforementioned time-machine experience, then enter the folder from the command line and type the following at the command prompt:
-	
-		python entertainment_center.py
+
+$ python entertainment_center.py
 
 Once the page is displayed in your default browser you can click on the movie posters to bring up the movie trailers.
 
