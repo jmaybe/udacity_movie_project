@@ -126,6 +126,7 @@ movie_tile_content = '''
     <h2>{movie_title}</h2>
     <h3>{movie_story}<h3>
     <h4>{movie_comments}<h4>
+    <h5>{movie_rating}<h5>
 </div>
 '''
 
@@ -150,6 +151,8 @@ def create_movie_tiles_content(movies):
             movie_story=movie.storyline,
             # Added personal comments etc
             movie_comments=movie.comments,
+            # Added personal rating
+            movie_rating=movie.rating,
             trailer_youtube_id=trailer_youtube_id
         )
     return content
