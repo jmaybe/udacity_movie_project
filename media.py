@@ -6,7 +6,7 @@ class Movie():
     
     # This is the constructor that provides the foundation for the instances and
     # their variables to come
-    def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
+    def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube, movie_comments):
 
         # These are instance variables. They can be whatever we want them to be, but
         # must match in number and order when creating the Instance.
@@ -14,6 +14,7 @@ class Movie():
         self.storyline = movie_storyline
         self.poster_image_url = poster_image
         self.trailer_youtube_url = trailer_youtube
+        self.comments = movie_comments
 
     # This is the Instance Method
     def show_trailer(self):
