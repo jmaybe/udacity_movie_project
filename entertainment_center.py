@@ -1,7 +1,11 @@
+# importing fresh_tomatoes functionality
 import fresh_tomatoes
+
+# imports Class made previously to facilitate this project
 import media
 
 
+# Adding each instance and the instance variable that go with each
 
 holy_grail = media.Movie("Monty Python and the Holy Grail",
                          "The greatest movie ever made",
@@ -24,6 +28,8 @@ pulp_fiction = media.Movie("Pulp Fiction",
                            "https://www.youtube.com/watch?v=ewlwcEBTvcg")
 
 
+# creating a list of movies to be included when page is opened
 movies = [holy_grail, watchmen, pulp_fiction, star_wars]
 
+# initiates the web page creation including those movies added to the 'movie' list
 fresh_tomatoes.open_movies_page(movies)
