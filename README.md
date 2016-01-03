@@ -40,7 +40,9 @@ Once the page is displayed in your default browser you can click on the movie po
 Be advised that the immediate after-effects of undergoing such a shock to your system might result in the page returning
 to what seems to be a normal, fairly basic, website with a few movies listed. You should know beforehand that this is
 one of your brain's defense mechanisms... Just know that, although you have absolutely no recollection afterwards, you 
-have experienced something that some people only dream about.
+have experienced something that some people only dream about. 
+
+Thank you for taking the time to review my project! It has been a lot of fun!
 
 
 
