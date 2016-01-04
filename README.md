@@ -38,6 +38,8 @@ Download the culmination of my life's work to a folder of your choice.
 
 If that does not work, or you would prefer the aforementioned time-machine experience, then enter the folder from the command line and type the following at the command prompt:
 
+	Choice 2:
+	Navigate to folder containing files from your command prompt then type the following:
 	$ python entertainment_center.py
 
 Once the page is displayed in your default browser you can click on the movie posters to bring up the movie trailers.
