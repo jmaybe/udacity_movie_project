@@ -28,12 +28,13 @@ In order to run do the following:
 
 Download the culmination of my life's work to a folder of your choice.
 
-	Right-click on: entertainment_center.py
-		(if running a Mac the hold 'control' button whilst doing your clicking)
-
-	Select: IDLE from the ‘open with’ options
-
-	When opened in IDLE press F5 or select ‘--> Run -> Run Module’ from pull-down list.
+	Choice 1:
+		Open IDLE(PythonGUI) (version 2.7)
+		Select: --> File --> Open
+		Navigate to folder where you downloaded these files
+		--> Open --> entertainment_center.py
+		When files opens in IDLE:
+		Press F5 or select --> Run --> Run Module
 
 If that does not work, or you would prefer the aforementioned time-machine experience, then enter the folder from the command line and type the following at the command prompt:
 
